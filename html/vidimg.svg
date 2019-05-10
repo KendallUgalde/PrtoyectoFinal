@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol height="480" id="svg_13" width="640" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+   <g class="layer">
+    <title>Layer 1</title>
+    <ellipse cx="318.500002" cy="257.900003" fill="#ffaaaa" id="svg_12" rx="179.000001" ry="193.500009" stroke="#000000" stroke-width="0"/>
+    <line fill="none" id="svg_11" stroke="#ffffff" stroke-width="3" x1="212.812498" x2="195.479167" y1="226.174474" y2="311.507812"/>
+    <line fill="none" id="svg_10" stroke="#ffffff" stroke-width="3" x1="200.145831" x2="280.812502" y1="206.841143" y2="314.841139"/>
+    <line fill="none" id="svg_9" stroke="#ffffff" stroke-width="3" x1="196.145831" x2="270.145835" y1="234.84114" y2="174.174474"/>
+    <line fill="none" id="svg_8" stroke="#ffffff" stroke-width="3" x1="304.812502" x2="234.145834" y1="166.841138" y2="221.507806"/>
+    <line fill="none" id="svg_7" stroke="#ffffff" stroke-width="3" x1="234.8125" x2="306.145835" y1="220.84114" y2="309.50781"/>
+    <line fill="none" id="svg_6" stroke="#ffffff" stroke-width="3" transform="rotate(-11.969499588012695 325.1458282470703,241.8411407470703)" x1="342.358003" x2="307.93367" y1="157.739715" y2="325.942564"/>
+    <line fill="none" id="svg_5" stroke="#ffffff" stroke-width="3" x1="309.479169" x2="379.479167" y1="318.174479" y2="227.507807"/>
+    <line fill="none" id="svg_4" stroke="#ffffff" stroke-width="3" transform="rotate(-10.992500305175781 348.1458435058594,207.50779724121094)" x1="324.085023" x2="372.206657" y1="165.61646" y2="249.399147"/>
+    <line fill="none" id="svg_3" stroke="#ffffff" stroke-width="3" transform="rotate(-39.72380065917969 404.1458282470703,246.17447662353516)" x1="430.775336" x2="377.516323" y1="179.047372" y2="313.301562"/>
+    <line fill="none" id="svg_2" stroke="#ffffff" stroke-width="3" transform="rotate(-31.08169937133789 421.81251525878906,261.84114837646484)" x1="362.145837" x2="481.479174" y1="316.841142" y2="206.841139"/>
+    <line fill="none" id="svg_1" stroke="#ffffff" stroke-width="3" transform="rotate(-21.11039924621582 205.81249237060547,183.17447662353516)" x1="214.479162" x2="197.145831" y1="140.50781" y2="225.841148"/>
+   </g>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use id="svg_14" transform="matrix(0.968517, 0, 0, 0.843642, -87.8697, -36.4492)" x="97.07823" xlink:href="#svg_13" y="-2.554874"/>
+  <g id="svg_15"/>
+  <text fill="#ffaaaa" font-family="serif" font-size="24" id="svg_16" stroke="#ffaaaa" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="rotate(-47.3194, 502.673, 352.354) matrix(1.94632, 0, 0, 1.87394, -930.824, -427.774)" x="736.569795" xml:space="preserve" y="424.415709">Habilidades</text>
+  <text fill="#ffaaaa" font-family="serif" font-size="24" id="svg_17" stroke="#ffaaaa" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="rotate(-46.9847, 549.5, 395.955) matrix(2.10648, 0, 0, 2.01858, -489.031, -472.677)" x="493.017076" xml:space="preserve" y="438.557694">Intereses</text>
+ </g>
+</svg>
